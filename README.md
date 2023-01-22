@@ -1,10 +1,10 @@
 # Game
 
-[First Project]
+💥First Project
 
-Lan: C
+Language: C
 
-😨 Pacman 
+Game: 🥴 Pacman 
 
 <br>
 
